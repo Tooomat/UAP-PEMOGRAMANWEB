@@ -1,0 +1,10 @@
+#tabel-barang {
+  width: 50%;
+  margin: 0 0 10px;
+}
+
+#tabel-barang th,
+#tabel-barang td {
+  border: 1px solid black;
+  text-align: center;
+}
